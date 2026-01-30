@@ -66,7 +66,7 @@ It is designed for use by **marketing, fundraising, and analytics teams**.
 
 ```
 .
-├── data/                     # Clean datasets used for analysis and modelling
+├── data/                     # Datasets used for analysis and modelling
 │   └── data.xlsx
 
 ├── notebooks/                # Data preparation and targeting logic
@@ -75,7 +75,9 @@ It is designed for use by **marketing, fundraising, and analytics teams**.
 ├── powerbi/                  # Interactive Power BI dashboard
 │   └── Christmas Cash Cross-Sell Dashboard.pbix
 ├── outputs/                  # Final outputs ready for stakeholders
-│   ├── dashboard_export.pdf 
+│   ├── Campaign_Contacts_Overall_Overview.jpg
+    ├──Contacts_Selection_Overview_Dashboard.jpg
+    ├──Target_Market_Profile_Dashboard.jpg
     ├── powerbi_ready_dataset.csv
 │   └── Top3000_ChristmasCash_TargetList.xlsx
 ├── slides/                   # Summary presentation
