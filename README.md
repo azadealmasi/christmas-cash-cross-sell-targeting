@@ -62,6 +62,9 @@ It is designed for use by **marketing, fundraising, and analytics teams**.
 
 ## Repository structure
 
+## Repository structure
+
+```
 .
 ├── data/                     # Clean datasets used for analysis and modelling
 │   └── powerbi_ready_dataset.csv
@@ -76,6 +79,7 @@ It is designed for use by **marketing, fundraising, and analytics teams**.
 ├── slides/                   # Summary presentation
 │   └── Christmas Cash Cross-Sell Targeting.pptx
 └── README.md
+```
 
 
 ---
