@@ -1,8 +1,6 @@
-# christmas-cash-cross-sell-targeting
-Data-driven targeting for a Christmas cash cross-sell campaign, including eligibility rules, rank-based prioritisation, a Top 3,000 target list, and a Power BI dashboard for campaign insights.
 # Christmas Cash Cross-Sell Targeting 🎄💷
 
-This project identifies the **top 3,000 eligible supporters** for a **Christmas Cash cross-sell campaign** and provides a **Power BI dashboard** to support insight-driven marketing decisions.
+Data-driven targeting for a Christmas cash cross-sell campaign, including eligibility rules, rank-based prioritisation, a **Top 3,000 target list**, and a **Power BI dashboard** for campaign insights and, support insight-driven marketing decisions.
 
 **Goal:** target supporters who are contactable and engaged but **have not previously made cash donations**, in order to maximise **new cash donor acquisition**.
 
